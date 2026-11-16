@@ -17,7 +17,7 @@ window.ТЕКСТИ = {
     // UTM-мітка, яку квіз дописує до посилань на акцію й курси. Порожньо "" — без мітки.
     мітка: "",
   },
-  статистика: 
+  статистика: {
     // Вебзастосунок Google Apps Script (закінчується на /exec), як у «Старт у MilTech».
     адреса: "https://script.google.com/macros/s/AKfycbyVQkmZOZxKNRrm6DuYgucGBhjUfPFaEvwFxVo6dHL_Q6xTo3esnk2T5KZntYmcdtPl/exec",
     джерело: "black_friday_quiz",
