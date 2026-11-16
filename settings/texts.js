@@ -15,12 +15,11 @@ window.ТЕКСТИ = {
   // ─── Посилання й статистика ──────────────────────────────────
   посилання: {
     // UTM-мітка, яку квіз дописує до посилань на акцію й курси. Порожньо "" — без мітки.
-    мітка: "utm_source=email&utm_medium=quiz&utm_campaign=black_friday_2026",
+    мітка: "",
   },
-  статистика: {
+  статистика: 
     // Вебзастосунок Google Apps Script (закінчується на /exec), як у «Старт у MilTech».
-    // Порожньо — статистика вимкнена. Краще окрема таблиця, щоб не змішати з даними MilTech.
-    адреса: "",
+    адреса: "https://script.google.com/macros/s/AKfycbyVQkmZOZxKNRrm6DuYgucGBhjUfPFaEvwFxVo6dHL_Q6xTo3esnk2T5KZntYmcdtPl/exec",
     джерело: "black_friday_quiz",
   },
 
