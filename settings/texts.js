@@ -6,7 +6,7 @@
 window.ТЕКСТИ = {
   // ─── Акція ───────────────────────────────────────────────────
   акція: {
-    посилання: "https://robotdreams.cc/uk/course/1706-black-friday",
+    посилання: "https://robotdreams.cc/uk/course/1706-black-friday?utm_source=letter&utm_medium=mail&utm_campaign=black_friday_rd&utm_content=quiz",
     знижка: "−40\u00a0%",
     мітка: "Black Friday",
     кнопка: "Скористатися знижкою",
